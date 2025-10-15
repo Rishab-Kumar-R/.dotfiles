@@ -1,0 +1,13 @@
+font-family = JetBrains Mono
+font-size = 18
+theme = Rose Pine
+adjust-underline-position = 40%
+adjust-underline-thickness = -60%
+
+cursor-style = block
+cursor-style-blink = false
+
+window-width = 120
+window-height = 45
+window-padding-x = 4
+
