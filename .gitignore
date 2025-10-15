@@ -1,0 +1,8 @@
+# Ignore undo history files
+undodir/
+
+# Ignore local data from lazy.nvim, mason, etc.
+/lazy-lock.json
+/lazy-lock.json~
+/mason.lock.json
+/mason.lock.json~
